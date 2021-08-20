@@ -4,6 +4,11 @@
 
 (nothing yet)
 
+## 1.3.6
+
+ - Remove leading newline from signing string (#2)
+ - Add colon after (request-target) in docs (joyent#120)
+
 ## 1.3.5
 
  - Add keyPassphrase option to signer (#115)
