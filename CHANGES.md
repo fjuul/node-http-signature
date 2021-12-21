@@ -4,6 +4,9 @@
 
 (nothing yet)
 
+## 1.3.7
+* Update jsprim due to vulnerability in json-schema (#5)
+
 ## 1.3.6
 
 * Remove leading newline from signing string (#2)
